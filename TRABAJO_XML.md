@@ -24,3 +24,9 @@
 
 
 ### Casos de uso reales observados (mínimo 3 ejemplos)
+
+1. 1
+
+2. 2
+
+3. 3
