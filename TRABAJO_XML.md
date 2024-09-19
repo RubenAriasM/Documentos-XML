@@ -26,15 +26,3 @@ Los sistemas de almacenamiento XML no son bases de datos relacionales tradiciona
 * Almacenamiento de datos heterogéneos
 * Generación de informes
 * Web services
-
-
-### Tipos: Tipos de ficheros, bases de datos representativas, etc.
-
-
-### Casos de uso reales observados (mínimo 3 ejemplos)
-
-1. 1
-
-2. 2
-
-3. 3
