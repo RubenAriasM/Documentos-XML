@@ -10,7 +10,7 @@
 ## Origen y Surgimiento
 
 * **SGML:** XML tiene sus raíces en el Standard Generalized Markup Language (SGML), un lenguaje de marcado muy poderoso pero complejo.
-* **Nacimiento de XML:** El Consorcio World Wide Web (W3C) desarrolló XML con el objetivo de crear un lenguaje más simple y flexible que SGML. La primera versión de XML se publicó en [].
+* **Nacimiento de XML:** El Consorcio World Wide Web (W3C) desarrolló XML con el objetivo de crear un lenguaje más simple y flexible que SGML. La primera versión de XML se publicó en [1998].
 
 ## Popularización
 
