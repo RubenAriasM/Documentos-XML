@@ -1,7 +1,6 @@
 # Trabajo Tema 1 ADT
-## PARTE DE MARIO SÁNCHEZ ESTEVEZ
 ## Documentos XML
-
+## Mario Sanchez, Guillermo Muñiz, Rubén Arias
 
 ### Descripción del funcionamiento del sistema de almacenamiento
 Los sistemas de almacenamiento XML no son bases de datos relacionales tradicionales. En lugar de almacenar datos en tablas con filas y columnas, utilizan documentos XML para representar la información. Estos documentos tienen una estructura jerárquica definida por etiquetas, lo que permite organizar los datos de forma lógica y flexible.
@@ -19,7 +18,6 @@ Los sistemas de almacenamiento XML no son bases de datos relacionales tradiciona
 * Falta de estandarización
 * Rendimiento
 
-
 **Usos:**
 * Intercambio de datos
 * Configuración de aplicaciones
@@ -28,9 +26,6 @@ Los sistemas de almacenamiento XML no son bases de datos relacionales tradiciona
 * Web service
 
 
-# Trabajo Tema 1 ADT
-
-## Documentos XML
 **XML: Un lenguaje de marcado extensible y su evolución**
 
 **Introducción:** XML, o Extensible Markup Language, es un lenguaje de marcado diseñado para almacenar datos de manera estructurada. Su simplicidad y flexibilidad lo han convertido en una herramienta fundamental en el mundo de la informática.
@@ -63,8 +58,6 @@ Los sistemas de almacenamiento XML no son bases de datos relacionales tradiciona
     * **YAML:** Otra alternativa con una sintaxis más concisa.
 * **Tendencias Futuras:**
     * A pesar de la competencia, XML sigue siendo relevante debido a su estructura sólida y capacidad de representar datos complejos.
-
-
 
 
 ### Casos de uso reales observados (mínimo 3 ejemplos)
@@ -110,9 +103,9 @@ Los sistemas de almacenamiento XML no son bases de datos relacionales tradiciona
     </keybindings>
 </preferences>
 
-### Tipos: Tipos de ficheros, bases de datos representativas
+## Tipos: Tipos de ficheros, bases de datos representativas
 
-#### Tipos de ficheros
+### Tipos de ficheros
 1. Ficheros XML sencillos: Documentos estructurados con etiquetas que representan la jerarquía de datos. Pueden ser usados para almacenar información de manera estructurada.
  
 2. XML Schema (XSD): Esquemas XML que definen la estructura y restricciones de un documento XML. Se utilizan para validar que un archivo XML siga una estructura y formato específico.
@@ -122,12 +115,11 @@ Los sistemas de almacenamiento XML no son bases de datos relacionales tradiciona
 4. Ficheros RSS/ATOM: Son tipos de documentos XML utilizados en la sindicación de contenido, por ejemplo, en fuentes de noticias o blogs.
  
  
-#### Bases de Datos Representativas con XML
+### Bases de Datos Representativas con XML
  
 1. Base de datos XML nativa: Son bases de datos que almacenan directamente documentos XML y permiten consultas usando lenguajes como XPath o XQuery.
 
 2. Bases de datos relacionales con soporte XML: Algunas bases de datos relacionales ofrecen soporte para almacenar y consultar datos XML, aunque no son nativas de XML.
-
 
 
 ### Casos de Uso Reales de XML
