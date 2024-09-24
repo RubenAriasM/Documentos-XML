@@ -25,4 +25,4 @@ Los sistemas de almacenamiento XML no son bases de datos relacionales tradiciona
 * Configuración de aplicaciones
 * Almacenamiento de datos heterogéneos
 * Generación de informes
-* Web services
+* Web service
